@@ -1,0 +1,17 @@
+zuul:
+  routes:
+    api-a:
+      path: /api-a/**
+      serviceId: helloService
+    api-b:
+      path: /api-b/**
+      serviceId: feign-consumer
+    api-c:
+      path: /api-c/**
+      serviceId: ribbon-consumer
+
+eureka:
+  client:
+    service-url:
+      defaultZone:
+        http://localhost:1111/eureka/
