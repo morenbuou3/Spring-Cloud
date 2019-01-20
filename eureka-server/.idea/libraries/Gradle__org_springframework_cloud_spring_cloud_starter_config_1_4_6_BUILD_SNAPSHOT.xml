@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-config:1.4.6.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-config/1.4.6.BUILD-SNAPSHOT/cb8e1bbe95b9f05d18b22b830584192b5a72b844/spring-cloud-starter-config-1.4.6.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-config/1.4.6.BUILD-SNAPSHOT/f4bfb38cf82db0a302eb1144a093e571ea97e8ec/spring-cloud-starter-config-1.4.6.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

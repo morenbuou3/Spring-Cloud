@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-netflix-zuul:1.4.7.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-zuul/1.4.7.BUILD-SNAPSHOT/1b3e5623ea2f4ef3392d21917d591c3713475bba/spring-cloud-starter-netflix-zuul-1.4.7.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-zuul/1.4.7.BUILD-SNAPSHOT/d26785700e0c7caa1a53a71bb52d68674e2205a/spring-cloud-starter-netflix-zuul-1.4.7.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
